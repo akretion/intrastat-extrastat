@@ -13,12 +13,12 @@
             <xpath expr="//field[@name='country_id']" position="attributes">
                 <attribute name="required">1</attribute>
             </xpath>
-            <xpath
+            <!--<xpath
                 expr="//field[@name='child_ids']/form//field[@name='country_id']"
                 position="attributes"
             >
                 <attribute name="required">1</attribute>
-            </xpath>
+            </xpath>-->
         </field>
     </record>
 
